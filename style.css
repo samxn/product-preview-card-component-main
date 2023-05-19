@@ -1,0 +1,30 @@
+body {
+  background-color: #f3ebe5;
+}
+img {
+  width: 200px;
+  border-radius: 10px 0px 0px 10px;
+}
+.text-align {
+  padding-left: 10px;
+}
+.main-format {
+  width: 100%;
+}
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+.main-text {
+  background-color: white;
+  border-radius: 0px 10px 10px 0px;
+}
+.main-img {
+  width: 100%;
+}
